@@ -17,7 +17,7 @@ Numerical Aperture measurement Jig
  7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
 ---
 ## Calculation:
-<img width="909" height="1600" alt="image" src="https://github.com/user-attachments/assets/00615e1e-e937-4fbd-be3f-ff4fb307554f" />
+<img width="1280" height="727" alt="image" src="https://github.com/user-attachments/assets/b31aca1c-9853-465f-88e4-5ff316d8d567" />
 
 
 ## Result
